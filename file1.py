@@ -1,0 +1,3 @@
+print("Addition",a+b)
+print("Substraction",a-b):
+    :
