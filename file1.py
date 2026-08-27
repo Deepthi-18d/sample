@@ -1,3 +1,3 @@
-print("Addition",a+b)
-print("Substraction",a-b):
-    :
+print("Addition",8+4)
+print("Substraction",17-4)
+print('Multiplication",12*7)
